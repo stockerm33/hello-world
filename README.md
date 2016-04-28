@@ -1,2 +1,3 @@
 # hello-world
-My first github repository
+
+I am learning GIT so that I can conduct SOX testing on this application.
